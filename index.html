@@ -357,7 +357,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "07d4f87b-0636-4f15-a5ac-1627f1bb6aeb";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">Skip to main content</a>
+<script>window.ZAPPY_WEBSITE_ID = "07d4f87b-0636-4f15-a5ac-1627f1bb6aeb";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">Skip to main content</a>
   <nav class="navbar">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -855,10 +855,10 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim" id="home-hero-section" style="margin-top: -71px !important; padding-top: 71px !important;">
   <!-- Background Image -->
   <div class="home-hero-bg">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="home-hero-image-1" data-context="Cinematic night street editorial photography: a young male model wearing a bold premium graphic t-shirt with neon-lit urban reflections on wet pavement behind him. Moody low-key lighting with magenta and cyan neon glows from storefronts. Dark atmosphere, high contrast, streetwear hype culture aesthetic, editorial fashion photography style, shallow depth of field, dramatic shadows." width="1440" height="900" src="/assets/site-home-hero-image-1.webp" alt="Prettydank.store streetwear model in premium graphic tee under city neon lights">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="home-hero-image-1" data-context="Cinematic night street editorial photography: a young male model wearing a bold premium graphic t-shirt with neon-lit urban reflections on wet pavement behind him. Moody low-key lighting with magenta and cyan neon glows from storefronts. Dark atmosphere, high contrast, streetwear hype culture aesthetic, editorial fashion photography style, shallow depth of field, dramatic shadows." width="1440" height="900" src="/assets/site-home-hero-image-1.webp" alt="Prettydank.store streetwear model in premium graphic tee under city neon lights" data-hero-background="true" data-element-type="image" data-element-id="img-1779922769557-k6t6dv25y">
   </div>
 
   <!-- Scrim Overlay -->
@@ -887,10 +887,9 @@
       </div>
 
       <!-- Main Headline -->
-      <h1 class="home-hero-h1">
-        <span class="home-hero-h1-line1">Pretty</span><span class="home-hero-h1-accent">Dank</span><span class="home-hero-h1-dot">.</span>
-        <br>
-        <span class="home-hero-h1-line2">Ranked Drops.</span>
+      <h1 class="home-hero-h1" style="">
+        <span class="home-hero-h1-line1">Pretty</span><span class="home-hero-h1-accent" style="color: rgb(0, 0, 0) !important;">Dank</span><span class="home-hero-h1-dot">.</span>
+        <br><span class="home-hero-h1-line2">Exclusive Drops.</span>
         <br>
         <span class="home-hero-h1-line3">Legends Global</span>
         <br>
@@ -910,8 +909,8 @@
 
       <!-- CTAs -->
       <div class="home-hero-ctas">
-        <a href="/contact" class="home-hero-btn-primary">Get Launch Access</a>
-        <a href="/ranks" class="home-hero-btn-secondary">Ranks &amp; Launches</a>
+        <a href="/contact" class="home-hero-btn-primary" style="color: rgb(0, 0, 0) !important;" data-element-type="button" data-element-id="btn-1779922769554-spra8v4ov" data-native-element="true">Get Launch Access</a>
+        <a href="/ranks" class="home-hero-btn-secondary" data-element-type="button" data-element-id="btn-1779922769554-v69e5pbre" data-native-element="true">Ranks &amp; Launches</a>
       </div>
 
     </div>
