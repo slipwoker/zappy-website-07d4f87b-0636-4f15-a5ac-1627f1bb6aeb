@@ -1,0 +1,100 @@
+# Prettydank.store — Generative Engine Optimization Map
+
+> Prettydank.store is a merchandise and apparel brand offering t-shirts and exclusive product drops with a launch/ranking system for their items. The brand name 'Prettydank' suggests a cool, street-culture-inspired vibe with a bold and trendy personality, likely targeting a youth or streetwear-savvy audience who enjoy limited or tiered product releases.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Shop exclusive urban culture apparel and limited drops at Prettydank.store. From bold T-shirts to ranked product launches, this is streetwear built for legends. Shop now.
+
+### Ranks & Launches
+https://example.com/ranks-launches
+Unlock tiered product launches and climb the ranks at Prettydank.store. Limited THC Brand drops and ranked streetwear releases reward the bold. Secure your tier today.
+
+### About
+https://example.com/about
+Prettydank.store was born from street culture and powered by ecommerce fulfillment services that deliver fast. Discover the brand behind the legends global merchandise movement.
+
+### Contact
+https://example.com/contact
+Reach out to the Prettydank.store team for order help, drop inquiries, or wholesale info. Our Shopify ecommerce website makes it easy to get answers fast. Hit us up now.
+
+### Products
+https://example.com/products
+Our Products - Prettydank.store
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Prettydank.store
+
+### Category
+https://example.com/category/:slug
+Products - Prettydank.store
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Prettydank.store
+Prettydank.store is a merchandise and apparel brand offering t-shirts and exclusive product drops with a launch/ranking system for their items. The brand name 'Prettydank' suggests a cool, street-culture-inspired vibe with a bold and trendy personality, likely targeting a youth or streetwear-savvy audience who enjoy limited or tiered product releases.
+
+## Target Audience
+- Streetwear Enthusiasts
+- Pop Culture Fans
+- Niche Collectors
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
